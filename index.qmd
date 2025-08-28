@@ -1,0 +1,55 @@
+---
+title: "POLS 2998W - The United States Congress, Process and Policy-Making"
+author: 
+  - name: Jason Byers
+    email: jason.byers@uconn.edu
+date: today
+---
+
+Welcome to our course website! Here you can find links to everything you'll need this semester:
+
+-   The course [syllabus](https://byersjs.github.io/POLS-2998W-Syllabus/)
+
+-   Submit assignments at our course [HuskyCT page](https://huskyct.uconn.edu) (mortarboard icon in the upper right).
+
+-   I will post lecture notes on the course [GitHub repository](https://github.com/byersjs/POLS-2998) (the octocat icon in the upper right).
+
+# Course Description
+This course is intended as a broad survey of the legislative branch of the American government. In this course we discuss the origins and development of the U.S. Congress, the committee systems, legislative process, the role of political parties, and inter-branch relations. Particular attention is given to changes in Congress, as well as current political and scholarly controversies such as budgetary politics, party effects, and campaign finance reform.
+
+# Course Goals
+The primary goal of this course is to familiarize the student with the workings of the United States Congress. The U.S. Congress is not only the oldest popularly elected legislative body, but also one of the most complex and powerful. A thorough understanding of the body requires not only a familiarity of its evolution and institutions, but a deep comprehension of the trade-offs inherent in policy-making. Throughout this course, we will attempt to get a handle on this by relating some of the basic political science literature on Congress to contemporary events.
+
+Moreover, the U.S. Congress is both large and procedurally complex. Trying to understand it all
+is impractical. Accordingly, in this course a greater emphasis is going to be placed on
+understanding and utilizing congressional resources. Students should expect to learn how to find
+and access information on congress process and policy-making. This includes (but is not limited
+to): The Congressional Record, Congressional Research Service Reports; Historical Newspapers;
+CQ Almanac; ProQuest Congressional; Voteview; Google Scholar and Congress.gov.
+
+At the end of this course, students should be equipped to do the following: (1) Describe, assess,
+and critique the rules and processes that govern lawmaking in both the House and the Senate; (2)
+Comprehend the many ways these rules impact policy-making; (3) Identify and access tools
+associated with the tracking of bills and policies; and (4) Examine and detail how a federal policy
+is made and has evolved over time.
+
+# Course Materials
+There is no required book for this course. Instead, links to readings that correspond to each lecture are provided in the schedule below. These will also be posted in HuskyCT. Some of these readings will be highly technical in nature. As such, students are not expected to understand all aspects of each paper. However, they will be held accountable for a basic understanding of the paper’s theory and applications.
+
+Students will not only be expected to have done the reading assignments, but should also be aware of relevant news stories. As such, I recommend reading a daily newspaper – such as the [New York Times](https://www.nytimes.com) and/or the [Washington Post](https://www.washingtonpost.com) – or at least checking [CNN](https://www.cnn.com) or [Fox](https://www.foxnews.com). Other political blogs that students may find useful include [FiveThirtyEight](https://abcnews.go.com/politics), [Political Wire](https://politicalwire.com), [The Upshot](https://www.nytimes.com/section/upshot?_r=0), [Vox](https://www.vox.com), [the Drudge Report](https://drudgereport.com) and [Roll Call](https://rollcall.com).
+
+Some optional Texts:
+
+- Oleszek, Walter J., Mark J. Oleszek, Elizabeth Rybicki and Bill Heniff, Jr. 2020. Congressional Procedures and the Policy Process. 11th Edition. CQ Press: Wash- ington, DC.
+
+- Mann, Robert. 1996. The Walls of Jericho: Lyndon Johnson, Hubert Humphrey, Richard Russell, and the Struggle for Civil Rights. New York, NY: Harcourt, Brace and World, Inc.
+
+- Murray, Alan and Jeffrey Birnbaum. 1987. Showdown at Gucci Gulch. Random House Publishing.
+
+- Mayhew, David. 1974. Congress: The Electoral Connection. 2nd Edition. Yale University Press.
+
+- Draper, Robert. 2012. Do Not Ask What Good We Do: Inside the U.S. House of Representatives. New York, NY: Simon and Schuster.
+
+- Kaiser, Robert. 2013. Act of Congress: How America’s Essential Institution Works, and How It Doesn’t. New York, NY: Alfred Knopf.
+
+- Schickler, Eric. 2001. Disjointed Pluralism: Institutional Innovation and the Development of the U.S. Congress. Princeton, NJ: Princeton University Press.

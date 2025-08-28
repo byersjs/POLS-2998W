@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto  # re-render only when source changes
+
+website:
+  title: "The United States Congress, Process and Policy-Making"
+  favicon: img/favicon_io/favicon.ico
+  navbar:
+    background: '#000E2F'
+    # left:
+    #   - href: index.qmd
+    #     text: Home
+    #   - about.qmd
+    right: 
+      - href: index.qmd
+        text: Home
+      - href: https://byersjs.github.io/POLS-2998W-Syllabus/
+        text: "Syllabus"
+      - href: https://huskyct.uconn.edu
+        icon: mortarboard-fill
+      - href: https://github.com/byersjs/POLS-2998W
+        icon: github
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+
+editor: visual
+
+
