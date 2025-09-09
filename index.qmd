@@ -12,7 +12,7 @@ Welcome to our course website! Here you can find links to everything you'll need
 
 -   Submit assignments at our course [HuskyCT page](https://huskyct.uconn.edu) (mortarboard icon in the upper right).
 
--   I will post lecture notes on the course [GitHub repository](https://github.com/byersjs/POLS-2998) (the octocat icon in the upper right).
+-   I will post lecture notes on the course [GitHub repository](https://github.com/byersjs/POLS-2998W) (the octocat icon in the upper right).
 
 # Course Description
 This course is intended as a broad survey of the legislative branch of the American government. In this course we discuss the origins and development of the U.S. Congress, the committee systems, legislative process, the role of political parties, and inter-branch relations. Particular attention is given to changes in Congress, as well as current political and scholarly controversies such as budgetary politics, party effects, and campaign finance reform.
